@@ -1,0 +1,30 @@
+
+
+body
+{
+  background-color: black;
+  color: white;
+
+
+}
+
+h1{
+  color: #cccccc;
+}
+h2{
+  color: #cccccc;
+}
+
+h3{
+  color: #cccccc;
+}
+
+hr
+{
+
+  border-style: none;
+  border-top-style: dot;
+  border-color: grey;
+  width:30%;
+
+}
